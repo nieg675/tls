@@ -1,0 +1,4 @@
+%{
+  "ranch": {:hex, :ranch, "1.8.0", "8c7a100a139fd57f17327b6413e4167ac559fbc04ca7448e9be9057311597a1d", [:make, :rebar3], [], "hexpm", "49fbcfd3682fab1f5d109351b61257676da1a2fdbe295904176d5e521a2ddfe5"},
+  "x509": {:hex, :x509, "0.8.3", "2306b7e9e9dce35cf16a2608c8d85027fa35f37b33c500b775362bbfd388d224", [:mix], [], "hexpm", "101650f2f35de8528878ae9cd449cb2d0cdcd9974733640ef320fad757594684"},
+}
